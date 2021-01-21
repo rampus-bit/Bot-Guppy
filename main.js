@@ -59,14 +59,3 @@ client.on('message', message =>{
         client.commands.get('quote').execute(message, args);
     }
 })
-
-//Client login code, sshhhhhhhhh
-client.login('Nzk5NzMyMjY5NzUzMTcyMDA4.YAH2tw.vQeiSjD7rYscCOzlkCQxkxXWONU')
-
-//Sets bot presence
-// const { prefix } = config
-// client.user.setPresence({
-//     activity: {
-//         name: `"${prefix}help" for help`,
-//     }
-// })
