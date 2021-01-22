@@ -1,7 +1,7 @@
 module.exports = {
     name: 'leave',
     description: 'stops playing audio, and leaves the room',
-    async execute(message, args){
+    async execute(client, message, args, Discord){
         const voiceChannel = message.member.voice.channel;
 
         if (!voiceChannel) return message.channel.send('You need to be in a voice channel in order to stop the music.');

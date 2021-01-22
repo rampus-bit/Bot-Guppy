@@ -1,7 +1,7 @@
 module.exports = {
     name: 'kick',
     description: 'this command kicks a member',
-    execute(message, args){
+    execute(client, message, args, Discord){
         const member = message.mentions.users.first();
         if(member){
             const memberTarget = message.guild.members.cache.get(member.id);

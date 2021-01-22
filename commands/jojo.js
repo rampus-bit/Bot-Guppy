@@ -1,7 +1,7 @@
 module.exports = {
     name: 'jojo',
     description: 'summons a jojo',
-    execute(message, args){
+    execute(client, message, args, Discord){
         message.channel.send(artStr = String.raw`
             ⣼⠀⠀⢻⠿⡿⢿⣿⣿⣿⣿⠿⢿⣿⣿⣟⣒⠶⠿⢿⣷⣷⣦⣟⣻⡿⠿⣷⣶⣭
             ⠻⣄⢀⡤⠤⠴⠛⢦⣩⡭⠗⢺⡿⠯⠽⢿⣿⣿⣿⣶⣶⣤⣽⣟⣻⣿⣷⣶⣶⣦
