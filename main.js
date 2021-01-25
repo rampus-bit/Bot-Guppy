@@ -22,5 +22,3 @@ client.on('guildMemberAdd', guildMember => {
     guildMember.roles.add(welcomeRole);
     guildMember.guild.channels.cache.get('802627340454723646').send(`Welcome to our server <@${guildMember.user.id}>! Make sure to check out our rules channel.`);
 });
-
-client.login('Nzk5NzMyMjY5NzUzMTcyMDA4.YAH2tw.fBKjKCIkstf3AoUqb9CMybZzPi8');
