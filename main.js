@@ -17,8 +17,10 @@ client.on('ready', () => {
 });
 
 client.on('guildMemberAdd', guildMember => {
-    let welcomeRole = guildMember.guild.roles.cache.find(role => role.name === 'Yurme');
+    let welcomeRole = guildMember.guild.roles.cache.find(role => role.name === '🤌🏿Yurme');
 
     guildMember.roles.add(welcomeRole);
     guildMember.guild.channels.cache.get('802627340454723646').send(`Welcome to our server <@${guildMember.user.id}>! Make sure to check out our rules channel.`);
 });
+
+client.login('Nzk5NzMyMjY5NzUzMTcyMDA4.YAH2tw.PUAuBNM3Cd5MJvwjI55vlSeqSVU');

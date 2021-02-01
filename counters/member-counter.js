@@ -9,5 +9,5 @@ module.exports = async (client) => {
         //Set the correct memeber count every one minute
         channel.setName(`Total Users: ${memberCount.toLocaleString()}`)
         console.log('Updating Member Count')
-    }, 60000);
+    }, 120000);
 }
