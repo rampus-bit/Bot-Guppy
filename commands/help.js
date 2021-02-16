@@ -23,7 +23,7 @@ module.exports = {
        **-leave** - Removes bot from the room, and stops playing music
       `},
     )
-    .setFooter('Make sure to bust');
+    .setFooter('Make sure to bust a move');
 
         message.channel.send(newEmbed);
     }

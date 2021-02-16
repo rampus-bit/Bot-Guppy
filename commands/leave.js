@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'skip',
+    name: 'leave',
     description: 'stops playing audio, and leaves the room',
     async execute(client, message, args, Discord){
         const voiceChannel = message.member.voice.channel;
