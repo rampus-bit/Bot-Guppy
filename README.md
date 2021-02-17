@@ -6,14 +6,14 @@ Instructions needed to run the project:
 
 ## Installations
 
-1. [`Node.js`](https://nodejs.org/en/): I used Node for the backend, and you will need it in order to run the bot. Refer to [this](https://nodejs.org/en/download/package-manager/) site for the Node.js install.
-2. `Folder`: A folder containing the source code needs to be created, I reccomend naming it "DiscordBot", but you can choose whatever you prefer. In addition, you need to find, and save the directory because it's needed throughout starting, and testing the bot.
-3. [`NPM`](https://www.npmjs.com/): For those of you that don't already have it, you will need to also install NPM. (It's a package manager that you will use to install all packages within the project.)
+* [`Node.js`](https://nodejs.org/en/): I used Node for the backend, and you will need it in order to run the bot. Refer to [this](https://nodejs.org/en/download/package-manager/) site for the Node.js install.
+* `Folder`: A folder containing the source code needs to be created, I reccomend naming it "DiscordBot", but you can choose whatever you prefer. In addition, you need to find, and save the directory because it's needed throughout starting, and testing the bot.
+* [`NPM`](https://www.npmjs.com/): For those of you that don't already have it, you will need to also install NPM. (It's a package manager that you will use to install all packages within the project.)
 
 ## Terminal Commands (You will need to utelize the terminal for this.)
-* `cd (required directory)`: Remember the folder you made for the bot? You will need to find which directory it's under, and type: cd (directory label). This can vary, so make sure you're using the correct characters for your operating system.
-* `NPM init`: Creates a package.json file. Set the entry point to 'main.js', but leave everything else the same accept for the personally customizable options.
-* 
+1. `cd (required directory)`: Remember the folder you made for the bot? You will need to find which directory it's under, and type: cd (directory label). This can vary, so make sure you're using the correct characters for your operating system.
+2. `NPM init`: Creates a package.json file. Set the entry point to 'main.js', but leave everything else the same accept for the personally customizable options.
+3. 
 
 ## Dependency Management
 
