@@ -21,7 +21,7 @@ Instructions needed to run the project:
 2. `Code Paste`: Paste everthing into your code editor, making sure to leave 'main.js', 'package-lock.json', and 'package.json' outside of all the folders.
 
 ## The folders should look like this:
-<img src="images/directories.png" width="100" >![](images/directories.png)
+<img src="images/directories.png" width="211" height="250">
 
 ## Personal Information
 This is the current state of my discord bot, it's going to have more features in the future. For obvious reasons, I removed my bots token from the code. I plan to implement a number of things, which I have all referenced [here](https://aldengarcia.github.io/).
