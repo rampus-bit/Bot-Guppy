@@ -10,10 +10,11 @@ Instructions needed to run the project:
 * `Folder`: A folder containing the source code needs to be created, I reccomend naming it "DiscordBot", but you can choose whatever you prefer. In addition, you need to find, and save the directory because it's needed throughout starting, and testing the bot.
 * [`NPM`](https://www.npmjs.com/): For those of you that don't already have it, you will need to also install NPM. (It's a package manager that you will use to install all packages within the project.)
 
-## Terminal Commands (You will need to utelize the terminal for this.)
+## Terminal Commands (Don't leave the entered directory unless instructed otherwise)
 1. `cd (required directory)`: Remember the folder you made for the bot? You will need to find which directory it's under, and type: cd (directory label). This can vary, so make sure you're using the correct characters for your operating system.
 2. `NPM init`: Creates a package.json file. Set the entry point to 'main.js', but leave everything else the same accept for the personally customizable options.
 3. `Open Project`: You can use whichever IDE or text editor you want. Running the command 'code .' also might open VSCode directly from your terminal depending on the OS.
+4. `Discord.JS`: 
 
 ## Dependency Management
 
