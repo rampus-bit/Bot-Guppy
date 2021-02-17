@@ -16,7 +16,9 @@ Instructions needed to run the project:
 3. `Open Project`: You can use whichever IDE or text editor you want. Running the command 'code .' also might open VSCode directly from your terminal depending on the OS.
 4. `Discord.JS`: Run 'npm install discord.js', and you're done with the terminal; Go ahead and close it.
 
-## Dependency Management
+## Code Transfer (Git-Cloning hasn't worked from my experience)
+1. `Download ZIP`: Go to the top of this repository, and press on the green 'Code' button. Then, click 'Download ZIP'. Extract the folder into an easily accessible place.
+2. `Code Paste`: 
 
 ## Personal Information
 This is the current state of my discord bot, it's going to have more features in the future. For obvious reasons, I removed my bots token from the code. I plan to implement a number of things, which I have all referenced [here](https://aldengarcia.github.io/).
