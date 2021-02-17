@@ -4,18 +4,17 @@ Discord bots are all over the internet, but if you don't want to start from scra
 ### Getting Started
 Instructions needed to run the project:
 
-## Installation
+## Installations
 
 1. [`Node.js`](https://nodejs.org/en/): I used Node for the backend, and you will need it in order to run the bot. Refer to [this](https://nodejs.org/en/download/package-manager/) site for the Node.js install.
 2. `Folder`: A folder containing the source code needs to be created, I reccomend naming it "DiscordBot", but you can choose whatever you prefer. In addition, you need to find, and save the directory because it's needed throughout starting, and testing the bot.
 3. [`NPM`](https://www.npmjs.com/): For those of you that don't already have it, you will need to also install NPM. (It's a package manager that you will use to install all packages within the project.)
 
-## Folder Structure
-
+## Terminal Commands (You will need to utelize the terminal for this part.)
+* `cd (required directory)`:
+* `NPM init`: Starts a new
 
 ## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
 
 ## Personal Information
 This is the current state of my discord bot, it's going to have more features in the future. For obvious reasons, I removed my bots token from the code. I plan to implement a number of things, which I have all referenced [here](https://aldengarcia.github.io/).
