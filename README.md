@@ -11,7 +11,7 @@ Instructions needed to run the project:
 3. [`NPM`](https://www.npmjs.com/): For those of you that don't already have it, you will need to also install NPM. (It's a package manager that you will use to install all packages within the project.)
 
 ## Terminal Commands (You will need to utelize the terminal for this.)
-* `cd (required directory)`:
+* `cd (required directory)`: Remember the folder you made for the bot? You will need to find which directory it's under, and type: cd (directory label). This can vary, so make sure you're using the correct characters for your operating system.
 * `NPM init`: Starts a new
 
 ## Dependency Management
