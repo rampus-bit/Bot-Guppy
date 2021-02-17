@@ -12,7 +12,8 @@ Instructions needed to run the project:
 
 ## Terminal Commands (You will need to utelize the terminal for this.)
 * `cd (required directory)`: Remember the folder you made for the bot? You will need to find which directory it's under, and type: cd (directory label). This can vary, so make sure you're using the correct characters for your operating system.
-* `NPM init`: Starts a new
+* `NPM init`: Creates a package.json file. Set the entry point to 'main.js', but leave everything else the same accept for the personally customizable options.
+* 
 
 ## Dependency Management
 
