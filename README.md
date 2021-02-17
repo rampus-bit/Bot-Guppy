@@ -6,7 +6,7 @@ Instructions needed to run the project:
 
 ## Installation
 
-1. `Node.js`: I used Node for the backend, and you will need it in order to run the bot. Refer to [this](https://nodejs.org/en/download/package-manager/) site for the Node.js install.
+1. [`Node.js`](https://nodejs.org/en/download/package-manager/): I used Node for the backend, and you will need it in order to run the bot. Refer to [this](https://nodejs.org/en/download/package-manager/) site for the Node.js install.
 2. `Folder`: A folder containing the source code needs to be created, I reccomend naming it "DiscordBot", but you can choose whatever you prefer. In addition, you need to find, and save the directory because it's needed throughout starting, and testing the bot.
 3. ``:
 
