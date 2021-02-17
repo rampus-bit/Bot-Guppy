@@ -2,14 +2,13 @@
 Discord bots are all over the internet, but if you don't want to start from scratch, go ahead and download this code to have a basis for your own bot. A lot of the commands remain from old commits, and you can freely re-purpose them for your own commands. I wish you luck on making your own bot, have a nice day.
 
 ## Getting Started
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 [here](https://nodejs.org/en/download/package-manager/#windows).
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
 ## Dependency Management
 
