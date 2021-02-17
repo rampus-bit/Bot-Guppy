@@ -3,8 +3,8 @@ Discord bots are all over the internet, but if you don't want to start from scra
 
 ## Getting Started
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. `src`: the folder to maintain sources
+2. `lib`: the folder to maintain dependencies
 [here](https://nodejs.org/en/download/package-manager/#windows).
 
 ## Folder Structure
