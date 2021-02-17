@@ -4,7 +4,7 @@ Discord bots are all over the internet, but if you don't want to start from scra
 ## Getting Started
 
 1. `Node.js`: I used Node for the backend, and you will need it in order to run the bot. Refer to [this](https://nodejs.org/en/download/package-manager/) site for the Node.js install.
-2. `lib`: the folder to maintain dependencies
+2. `Create a folder`: The folder used can be created anywhere, you just need to make sure that the directory is accesible.
 
 ## Folder Structure
 
