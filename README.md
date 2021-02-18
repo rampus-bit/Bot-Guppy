@@ -10,8 +10,9 @@ Small list of commands. Some other commands are available, but I haven't impleme
 
 ### Music Player
 
+`-play`
 ```
-awdawd
+play
 ```
 <!--<img src="images/musicplay.png">-->
 <!--<img src="images/notemusic.png">-->
