@@ -4,7 +4,9 @@ Guppy is an interactive discord bot that handles basic management of Discord ser
 ## Functionality
 Small list of commands. Some other commands are available, but I haven't implemented them into '-help' yet.
 
-<img src="images/commands.png">
+<p align="center">
+  <img src="images/commands.png">
+</p>
 
 ### Music Player
 
