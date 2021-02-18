@@ -10,12 +10,12 @@ Small list of commands. Some other commands are available, but I haven't impleme
 
 ### Music Player
 
-`-play`
-```
-play
-```
-<!--<img src="images/musicplay.png">-->
-<!--<img src="images/notemusic.png">-->
-<!--<img src="images/channel-leave.png">-->
+`-play (Song of choice, or requested URL)`:
+<img src="images/musicplay.png">
 
+`-leave`:
+<img src="images/channel-leave.png">
+
+
+<!--<img src="images/notemusic.png">-->
 <!--<img src="images/guppy.png">-->
