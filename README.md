@@ -7,7 +7,7 @@ Small list of commands. Some other commands are available, but I haven't impleme
 <p align="center">
   <img src="images/commands.png">
 </p>
-
+<!---
 ### Music Player
 
 #### `-play (Song of choice, or requested URL)`:
@@ -17,5 +17,6 @@ Small list of commands. Some other commands are available, but I haven't impleme
 <img src="images/channel-leave.png">
 
 
-<!--<img src="images/notemusic.png">-->
-<!--<img src="images/guppy.png">-->
+<img src="images/notemusic.png">
+<img src="images/guppy.png">
+--->
