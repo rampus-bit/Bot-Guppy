@@ -1,5 +1,5 @@
-## Personal Information
+# Guppy
+Guppy is an interactive discord bot that handles basic management of Discord servers. I use it to manage my own, but it's still in development; Hence, being online all the time is not something that happens frequently. If you'd like to grab a simple boilerplate to emulate some aspects of my bot, go [here](https://github.com/rampus-bit/DiscordBot-Sapling). Many more commands are pending, I just have to work on them a bit more. All files exist with the acception of my node folders. Go ahead and take anything you want from here, or the previous link; I will warn you though, some files include ID's specific to my server, so they might not work for you.
 
-This is the current state of my discord bot, it's going to have more features in the future. For obvious reasons, I removed my bots token from the code. I plan to implement a number of things, which I have all referenced [here](https://aldengarcia.github.io/).
-
+## Functionality
 <img src="images/guppy.png">
