@@ -8,14 +8,14 @@ Small list of commands. Some other commands are available, but I haven't impleme
   <img src="images/commands.png">
 </p>
 
-### Music Player
+#### Music Player
 
 `-play (Song of choice, or requested URL)`:
-&nbsp;
+
 <img src="images/musicplay.png">
 
 `-leave`:
-&nbsp;
+
 <img src="images/channel-leave.png">
 
 
